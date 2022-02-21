@@ -8,6 +8,8 @@ function start() {
 	$("#fundoGame").append("<div id='amigo' class='anima3'></div>");
 
     var jogo = {};
+    var velocidade=5;
+    var posicaoY = parseInt(Math.random() * 334);
     var TECLA = {
         W: 87,
         S: 83,
@@ -31,6 +33,8 @@ function start() {
 	
 	movefundo();
     movejogador();
+    moveinimigo1();
+    
 	
 	}
 
@@ -68,6 +72,20 @@ function start() {
             //Chama função Disparo	
         }
     
+    }
+
+    function moveinimigo1() {
+
+        posicaoX = parseInt($("#inimigo1").css("left"));
+        $("#inimigo1").css("left",posicaoX-velocidade);
+        $("#inimigo1").css("top",posicaoY);
+            
+            if (posicaoX<=0) {
+            posicaoY = parseInt(Math.random() * 334);
+            $("#inimigo1").css("left",694);
+            $("#inimigo1").css("top",posicaoY);
+                
+            }
     }
 
 }
