@@ -1,6 +1,6 @@
 <h1 align="center">RESCUE GAME</h1>
 
-Videoaula da plataforma Digital Innovation One,cujo desafio era criar um jogo semelhante a um Space-Shooter de resgate.
+## Curso da Digital Innovation One,cujo desafio era criar um jogo semelhante a um Space-Shooter de resgate.
 
 ### Ferramentas Utilizadas:
 
