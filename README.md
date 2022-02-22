@@ -1,4 +1,4 @@
-<h1 align="center">RESCUE GAME</h1>
+<h1 align="center"><a href="https://kadu1811.github.io/RescueGame/">🎃 👉 RESCUE GAME 👈 🎃</a></h1>
 
 ## Curso da Digital Innovation One,cujo desafio era criar um jogo semelhante a um Space-Shooter de resgate.
 
