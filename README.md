@@ -1,6 +1,8 @@
 <h1 align="center"><a href="https://kadu1811.github.io/RescueGame/">🎃 👉 RESCUE GAME 👈 🎃</a></h1>
 
-## Curso da Digital Innovation One,cujo desafio era criar um jogo semelhante a um Space-Shooter de resgate.
+<div>
+  <img src="https://user-images.githubusercontent.com/83604920/162543013-831ca8e6-f96c-4878-8bed-9f400513b341.png">
+<div>
 
 ### Ferramentas Utilizadas:
 
@@ -15,9 +17,3 @@
 [![CSS Badge](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff&link=https://developer.mozilla.org/pt-BR/docs/Web/CSS)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JS Badge](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black&link=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp)
 [![jQuery Badge](https://img.shields.io/badge/-jQuery-%230769AD?style=flat-square&logo=jquery&logoColor=ffffff&link=https://www.w3schools.com/jquery/)](https://www.w3schools.com/jquery/)
-
-### Recursos CSS:
-
-* [@font-face](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face)
-* [:root](https://www.w3schools.com/cssref/sel_root.asp)
-* [@keyframes](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)
