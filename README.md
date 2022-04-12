@@ -1,4 +1,5 @@
-<h1 align="center"><a href="https://kadu1811.github.io/RescueGame/">🎃 👉 RESCUE GAME 👈 🎃</a></h1>
+<h1 align="center"> RESCUE GAME </h1>
+<h2 align="center"><a href="https://kadu1811.github.io/RescueGame/">👉 Acesse o Site Aqui! 👈</a></h2>
 
 <div>
   <img src="https://user-images.githubusercontent.com/83604920/162543013-831ca8e6-f96c-4878-8bed-9f400513b341.png">
